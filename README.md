@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## IMPORTANT!
 
-This Project is 100% owned by Sooftyy (Steven or contact@sooftyy.com)
+This Project is 100% owned by Sooftyy (contact@sooftyy.com legally Steven H.)
 Sooftyy is the only person with the right to Publish or / and earn money from this code.
 If you see this you may be part of the Team (because the github repo is privat) BUT you are only allowed to do certain thing with my code:
 - read it

@@ -35,8 +35,8 @@ class _MyHomePageState extends State<MyHomePage> {
   final TextEditingController drinkMlController = TextEditingController();
 
   // State for language and date format
-  String _currentLanguage = 'English'; // Default language
-  String _currentDateFormat = 'MM.dd.yyyy'; // Default date format
+  String _currentLanguage = 'German'; // Default language
+  String _currentDateFormat = 'dd.MM.yyyy'; // Default date format
   bool _isDrawerOpen = false;
 
   // Get localized strings based on the current language
